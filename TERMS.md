@@ -1,8 +1,8 @@
-# Terms of Service – Modded in the Valley
+# Terms of Service - Modded in the Valley
 
 **Effective date:** November 2, 2025  
 **Last updated:** November 10, 2025  
-**Owner:** Modded in the Valley — Wasilla, Alaska  
+**Owner:** Modded in the Valley - Wasilla, Alaska  
 
 I operate Modded in the Valley as a sole proprietor.  
 By requesting a quote, messaging me directly, or submitting a service form, you agree to these terms.
@@ -59,7 +59,7 @@ If you choose to mail in your device:
 ## 7. Communication
 All communication may occur through Facebook, Reddit, Discord, or email.  
 By messaging me first, you consent to receive service updates through that platform.  
-Your contact information is only used for communication regarding your service request — **never marketing**.
+Your contact information is only used for communication regarding your service request, **never marketing**.
 
 ---
 
