@@ -76,7 +76,7 @@ You can make requests through any contact method listed below.
 ## 8. Contact
 Modded in the Valley  
 Wasilla, Alaska  
-🌐 [facebook.com/ModdedInTheValley](https://facebook.com/ModdedInTheValley)  
+[facebook.com/ModdedInTheValley](https://facebook.com/ModdedInTheValley)  
 
 ---
 
